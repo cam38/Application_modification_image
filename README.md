@@ -9,7 +9,7 @@ He can also add some filters (negative, edge detection, smoothing, grey scale, m
 The size of the image, its format and its name are indicated in the left part of the application. 
 
 # Tools
-We implemented this project in Python, and used Qt for the GUI.
+We implemented this project in Python, by using the notebooks of Anaconda. We also used Qt for the GUI. 
 
 # Documentation
 You will find a powerpoint on this project in the main folder.
